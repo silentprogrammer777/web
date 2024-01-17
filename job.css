@@ -1,0 +1,16 @@
+.first{
+ display: block;   
+}
+.lorem {
+    background-color: red;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+.lorem2{
+    background: blue;
+    padding: 20px;
+    border: 13px solid green;
+    margin-top: -100px;
+    border-radius: 50px;
+}
